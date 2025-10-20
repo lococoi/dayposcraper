@@ -3,4 +3,4 @@ Nunca había sido tan fácil scrapear un cuestionario daypo.
 
 Tan fácil como insertar el link del cuestionario y el nombre del JSON deseado.
 
-<img width="604" height="433" alt="{E672CCAE-BE5C-49A3-B0C9-E82E65A227FD}" src="https://github.com/user-attachments/assets/b0fa228f-2822-412c-bec6-abeb15829283" />
+<img width="592" height="425" alt="image" src="https://github.com/user-attachments/assets/d4ce8606-56df-435a-a424-1d017d3f528d" /><img width="912" height="899" alt="image" src="https://github.com/user-attachments/assets/d899c281-f685-406e-9154-f8b03e7c1bf5" />
