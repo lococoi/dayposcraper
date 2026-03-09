@@ -8,3 +8,4 @@ Tan fácil como insertar la URL del cuestionario y el nombre del JSON deseado.
 
 
 Podés crear tu propio ejecutable con Pyinstaller.
+Para resolverlo con lo extraido https://github.com/lococoi/dayporesolver
